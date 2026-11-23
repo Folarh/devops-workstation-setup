@@ -1,0 +1,7 @@
+.bashrc
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
